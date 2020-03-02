@@ -10,7 +10,7 @@ Datei | Inhaltsbeschreibung
 [Qlone Scan Matte](/04_Qlone_Scan_Matte.pdf) | Qlone Scan Matte
 
 ## Nützliche Links
-[https://blocks.softbankrobotics.com/](https://blocks.softbankrobotics.com/] - RoboBlocks Software von Softbank Robotics ([https://www.softbankrobotics.com/](https://www.softbankrobotics.com/))
+[https://blocks.softbankrobotics.com/](https://blocks.softbankrobotics.com/) - RoboBlocks Software von Softbank Robotics ([https://www.softbankrobotics.com/](https://www.softbankrobotics.com/))
 
 [https://www.qlone.pro/](https://www.qlone.pro/) - 3D Objekte Scan App
 
